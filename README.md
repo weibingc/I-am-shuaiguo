@@ -3,3 +3,6 @@ my first test  repository
 # change
 Time 2020/09/07/13:53   
 Author Lawskivsky
+## change in the repository of Github Desktop
+Time 2020/09/07/17:44  
+Author Lawskivsky
