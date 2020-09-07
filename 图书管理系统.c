@@ -411,3 +411,4 @@ void writeToText(wareHouse *library)
 	printf("数据已保存进文件中。\n"); 
 	fclose(fp);/*关闭文件*/ 
 }
+/*此处为修改处*/
